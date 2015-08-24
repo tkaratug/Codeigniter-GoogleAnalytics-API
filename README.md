@@ -21,3 +21,5 @@ $config['ga_profile_id'] = '54982801';
 ```
 
 Profile ID of your website on Google Anaytics.
+
+For Turkish documentation [Click Here!](http://www.turankaratug.com/blog/php/3-codeigniter-ile-google-analytics-verilerini-cekmek)
